@@ -13,8 +13,8 @@ B = '\033[2;36m'
 #~ ~~ ~ ~ ~ ~ ~ ~  ~
 
 os.system('cls' if os.name == 'nt' else 'clear')
-token =8610445580:AAHrJ1VHZQZ7mCTKqcFC3mcLzalT68AXEF4
-id =7004521790
+token ="8610445580:AAHrJ1VHZQZ7mCTKqcFC3mcLzalT68AXEF4"
+id ="7004521790"
 os.system('cls' if os.name == 'nt' else 'clear')
 
 #~ ~~ ~ ~ ~ ~ ~ ~  ~
