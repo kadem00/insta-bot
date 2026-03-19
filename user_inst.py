@@ -2,7 +2,6 @@ import os, requests, random, time, threading
 from user_agent import generate_user_agent as hh
 from datetime import datetime
 
-#EAN : @Xiil6
 #~ ~~ ~ ~ ~ ~ ~ ~  ~
 Y = '\033[1;33m'
 R = '\033[1;31m'
@@ -78,7 +77,7 @@ def insta(username):
 
 - 𓏬 𝐔𝐬𝐄𝐫 → {username}
 
-- 𓏬 Qy : t.me/V_ii5
+- 𓏬 من شيلد 
 ➖➖➖➖➖➖➖➖➖
 '''
             try:
